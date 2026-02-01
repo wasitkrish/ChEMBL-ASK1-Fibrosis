@@ -1,0 +1,8 @@
+pandas>=1.5.0
+numpy>=1.23.0
+chembl-webresource-client>=0.10.8
+requests>=2.28.0
+tqdm>=4.64.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
