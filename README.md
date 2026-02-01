@@ -24,7 +24,7 @@ This repository provides a **fully reproducible pipeline** for extracting, clean
 The final dataset is **ML-ready** and suitable for **QSAR modeling, cheminformatics, and AI-driven drug discovery**.
 
 🤗 **Hugging Face Dataset:**  
-👉 https://huggingface.co/datasets/<your-username>/chembl-ask1-fibrosis
+👉 [https://huggingface.co/datasets/wasitkrish/ChEMBL-ASK1-Fibrosis](https://huggingface.co/datasets/wasitkrish/ChEMBL-ASK1-Fibrosis)
 
 ---
 
